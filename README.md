@@ -1,6 +1,6 @@
 # Image of the project
 
-![Demo](https://github.com/caiogarciap/purple-calculator/blob/main/image.png)
+![Demo](https://github.com/caiogarciap/netflix-clone/blob/master/image.png)
 
 
 
